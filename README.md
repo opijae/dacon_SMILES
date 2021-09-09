@@ -9,3 +9,5 @@
    * SATRN * 1024 dim으로 실험 해보자
 * 어떤분이 [morded](https://pypi.org/project/mordred/)라는 라이브러리로 1800개의 피쳐를 뽑아내는것을 공유해 주셔서 실험해볼 예정
    * tabnet..?
+* 2021-09-08 : loss를 꼭 L1을 써야할까..? MSE loss를 써보자
+   * MSE를 쓰고나니 단일 모델 기준 최고 점수가 나옴
