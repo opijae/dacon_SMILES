@@ -23,5 +23,8 @@
 * 2021-09-25 : 마지막 실험으로 CNN SWIN을 사용한다.
 * 2021-09-27 : KFOLD를 넣고 돌렸는데 코드 문제인지 별 효과가 없었다.
 * final : 최종 적으로 SMILES 식이 길고 분자 구조가 복잡한 분자들의 GAP(S1-T1)이 작은 거 같아 길이가 긴것들에 한에 0.9만큼의 weight를 줘 성능을 올렸다. (28/220)
-* 
-S
+
+
+
+### Wandb : https://wandb.ai/opijae/dacon_samsung?workspace=user-opijae
+### Colab : https://colab.research.google.com/drive/1qHPYJRktKl1paK2l4B3KSKd-7WAKwDpo?usp=sharing
